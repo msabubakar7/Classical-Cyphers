@@ -8,10 +8,15 @@ Typical methods used for breaking a classical cypher are frequency analysis and 
 The English alphabets A - Z would be used for the illustrations.
 
 The cyphers that would be examined includes:
-[Atbash Cypher](#atbash-cypher
-[Ceaser Cypher](#ceaser-cypher
+
+[Atbash Cypher](#atbash-cypher)
+
+[Ceaser Cypher](#ceaser-cypher)
+
 [Playfair Cypher](#playfair-cypher)
+
 [Vigenere Cypher](#vigenere-cypher)
+
 [Hill Cypher](#hill-cypher)
 
 Atbash and ceaser cyphers are mono alphabetic cyphers. That is, one-to-one alphabet substitution cyphers.
